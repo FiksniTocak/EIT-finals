@@ -1,0 +1,11 @@
+F:\IV2\grupa3\BibliotekaA02\BibliotekaA02\bin\Debug\BibliotekaA02.exe.config
+F:\IV2\grupa3\BibliotekaA02\BibliotekaA02\bin\Debug\BibliotekaA02.exe
+F:\IV2\grupa3\BibliotekaA02\BibliotekaA02\bin\Debug\BibliotekaA02.pdb
+F:\IV2\grupa3\BibliotekaA02\BibliotekaA02\obj\Debug\BibliotekaA02.csprojResolveAssemblyReference.cache
+F:\IV2\grupa3\BibliotekaA02\BibliotekaA02\obj\Debug\BibliotekaA02.Form1.resources
+F:\IV2\grupa3\BibliotekaA02\BibliotekaA02\obj\Debug\BibliotekaA02.Properties.Resources.resources
+F:\IV2\grupa3\BibliotekaA02\BibliotekaA02\obj\Debug\BibliotekaA02.csproj.GenerateResource.Cache
+F:\IV2\grupa3\BibliotekaA02\BibliotekaA02\obj\Debug\BibliotekaA02.exe
+F:\IV2\grupa3\BibliotekaA02\BibliotekaA02\obj\Debug\BibliotekaA02.pdb
+F:\IV2\grupa3\BibliotekaA02\BibliotekaA02\obj\Debug\BibliotekaA02.Form2.resources
+F:\IV2\grupa3\BibliotekaA02\BibliotekaA02\obj\Debug\BibliotekaA02.Form3.resources

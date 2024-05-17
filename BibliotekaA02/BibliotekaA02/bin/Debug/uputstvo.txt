@@ -1,0 +1,6 @@
+Uputstvo o aplikaciji
+Klikom na sifru u okviru sa desne strane popunice se polja sa leve starane u formi.
+Klikom na dugme brisanje mocicete da obrisete izabranog autra iz baye podataka.
+Klkom na dugme anlaliza mozete videtii ucestalost iznajmljivanja dela nekog autora za 
+odredjeni period.
+Pri pokretanju aplikacije sa desne strane ce biti prikazane informacije o autorima.\
