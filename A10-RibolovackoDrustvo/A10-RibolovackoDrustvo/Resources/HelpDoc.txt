@@ -1,0 +1,99 @@
+                                    THE LAST
+                                C O M M A N D O
+
+
+In the year 2046 the Industry of Intelligent Androids (M.O.X.A.T.) created
+DERGON, a revolutionary artificial intelligence device based on human thoughts.
+
+Contrary to what was expected, the new system was to become a hazardous
+catastrophe for mankind: intelligent machines spread across the XATOR
+Confederation of Planets causing death and destruction throughout.
+
+The only way to stop them is by destroying the planets they have taken control
+of. MOXAT have been placing powerful explosive charges on these planets for
+two years and now the time has come to set them off.
+
+The mission is not easy. An experienced commando able to use all types of
+weapons is required. He must not be afraid of death. You are the chosen one.
+
+AIM
+Activate each of the detonators and escape from each planet before it explodes.
+
+PLANETARY SYSTEM
+1. PLANET ZORAK: It is infested with M-2046 androids. It has a diameter of
+7500km and eight explosive charges have been set.
+
+2. PLANET ALFARD: Also plagued with thousands of M-2046 androids. Its diameter
+is 5015km and six explosive charges have been set.
+
+3. PLANET GRISUM: You have to destroy the two other planets before coming here.
+Its diameter resembles that of the Earth (11212km) and ten detonators have been
+set.
+
+OBJECTS
+IONIC BATTERIES: There are green, red and white batteries. You need one of each
+colour to activate each of the detonation sequences of the explosive charges.
+
+WEAPONS: When getting these the scoreboard will indicate whether you have
+automatic shooting capacity or immunity.
+
+CLOCK: It detains for a certain amount of time the countdown of the detonators.
+
+POWERS: They increase the ship's energy.
+
+ENTRY CAPSULE: Located above the detonators. You have to get under them to
+place the ionic batteries.
+
+TRANSPORT PLATFORM: Once you have activated all of the detonators this is your
+only means of escaping.
+
+WARNINGS AND ENEMIES
+There are four groups of enemies depending on where you are.
+
+You must study the movements of the enemies; they are programmed differently
+and you can get past all of them.
+
+The objects appear at random.
+
+The countdown begins as soon as you activate the first detonator. It's better
+if you get all the batteries you need first - it will save you time.
+
+LOADING INSTRUCTIONS
+Spectrum 48K - Type LOAD"" and press Enter.
+Start the tape.
+
+Amstrad CPC - Hold down CTRL key and press small enter key. Start the tape.
+
+CBM 64 - Hold down Shift key and press RUN/STOP.
+Start tape.
+
+MSX - type RUN"cas:" (enter) and start the tape.
+
+CONTROLS
+Q - UP             P - RIGHT          or Joystick
+A - DOWN           Space - Fire
+O - LEFT
+
+
+© Summit Software
+
+All rights reserved.
+
+No part of this publication/work or name and title thereto including the
+appearance and get-up thereof may be reproduced stored in a retrieval system or
+transmitted in any form or by any means electronic mechanical photocopying
+recording or otherwise without either the prior written permission of the
+copyright holder for which application should be addressed in the first
+instance of Summit Software.
+
+TAKE NOTICE that Summit Software is recorded as asserting all rights of
+authorship in this work in accordance with the provisions of The Copyright
+Designs & Patents Act 1988.
+
+
+PROGRAMMERS-If you have written a good programme for ANY home computer, send it
+to us now for evaluation. We pay EXCELLENT royalties!!
+SEND TO: The Evaluation Department, SUMMIT SOFTWARE Units 3-7 Baileygate
+Industrial Estate, Pontefract, West Yorkshire.
+
+Summit is a trademark of Alternative Software Ltd.
