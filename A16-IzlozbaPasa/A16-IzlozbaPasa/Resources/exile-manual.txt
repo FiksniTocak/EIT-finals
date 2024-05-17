@@ -1,0 +1,101 @@
+Exile
+~~~~~
+
+
+On your return from another mission you are made to divert to the
+planet Phoebus by Columbus Force High Command with orders to overpower
+the psychopathic Triax and eliminate his evil maggot creations before
+they are let loose on Earth to wreak havoc on its innocent population.
+
+You arrive alone and weaponless. Your spacesuit is under-equipped;
+its jetpack weak and its weapon slots empty after the toils of the last
+mission.
+
+Parking your spaceship in geostationary orbit, the wreck of the Pericles
+on the planet far below, you are visiting.
+
+The blurred image of an emerald spacesuit appears ... and disappears.
+Your Destinator is stolen. Now, as for the Pericles' crew, you are
+marooned. Your spaceship, no longer able to take you off this planet,
+floats powerless in orbit.
+
+Only if you retrieve your Destinator can you escape from the planet of
+the exile.
+
+But you have a mission to do first.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Exile Keyboard controls:
+
+
+R           Remember current location
+T           Teleport to previous remembered position
+
+S           Store held object in pocket
+G           Get next object from pocket
+
+M           Drop item
+,           Pick up item
+.           Throw item
+
+O           Raise aiming angle
+K           Lower aiming angle
+I           Centralize aiming angle
+
+U           Whistle 1
+Y           Whistle 2
+
+Tab         Turn
+Left Ctrl   Lie down
+Right Ctrl  Fire
+Caps Lock   Booster on/off (and the '[' key)
+Backspace   Last message
+Delete	    Pause
+Page Down   Load/save menu
+Space       Options menu
+
+Shift+F-key Transfer energy TO the currently selected weapon,
+            taking the energy FROM the weapon selected by this F-key
+
+F1          Pistol
+F2          Icer
+F3          Blaster
+F4          Plasma gun
+
+F6          Protection suit
+F7          Jetpack
+
+F8          Fix/scroll viewfield
+F10         Change language
+
+
+Note: The game plays best when the viewfield is fixed
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A classic by P.J.M Irvin & J.C. Smith, debuted on the BBC, C64, and
+eventually appeared in all its graphical glory on the amiga, ECS and
+AGA (a project that took years).
+
+Quite a technical achievement: the gravity (each object having its own
+weight), the particles, the AI. Most people, those aware of its
+existance, prefer the look and feel of the ECS version.
+
+Its not just a game, its an adventure! Unique in style and gameplay
+(I haven't encountered any other game that is looks/plays similar like
+this one). Edge Magazine did an article of the game, and gave it a high
+rating among the classics.
+
+With exile's 70's sci-fi atmosphere, the tension building sound
+effects - a huge cave system to explore, a living world with robots and
+lifeforms both vicious and friendly, frogs, imps, annoying birds,
+mushrooms that stun you, pass protected doors and transporters - you'll
+need more than a week to complete it. Find chatter and fluffy to aid
+you on your mission! It can be hard and frustrating, but its extremely
+addictive; a game where you have to use your brain. The game has been
+designed such that there are many ways to solve and resolve each of the
+various problems and puzzles. Exile deserves more recognition, and it
+would be interesting to see this game being transformed into a 3D game!
+
+
