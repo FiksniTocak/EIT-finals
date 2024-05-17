@@ -1,0 +1,247 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+.header h1 i{
+    color:#ffb526;
+}
+
+ .icon {
+    color:white;
+    background-color: #ffb526;
+    border-radius: 5px;
+}
+.header{
+    background-color: #b7cbff;
+    border-bottom: solid 2px #133fb6;
+}
+
+.container{
+    width: 80%;
+    margin:auto;
+    
+
+    }
+    .header-in{
+        height: 10vh;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        color:#133fb6;
+    }
+    body{
+        font-family: "Nunito", sans-serif;
+    }
+    .logo i{
+        margin-right: 10px;
+    }
+    
+    .nav a{
+        text-decoration: none;
+        font-size: 20px;
+        color:#133fb6;
+        margin-right:20px;
+        cursor:pointer;
+    }
+    
+    .nav a.current{
+        color:#133fb6
+    }
+    
+    .nav a:hover{
+        color:#ffb526;
+    }
+    
+    .icon i{
+        font-size: 20px;
+        border-radius: 3px;
+        padding: 5px;
+        cursor:pointer;
+    }
+    .banner{
+        background: url(../img/home.png) no-repeat;
+        height:85vh;
+        background-position: center;
+        background-size: cover;
+
+    }
+    .banner-in{
+        padding-top: 15%;
+        
+    }
+    .banner-in h2{
+        font-size: 40px;
+        color:#fff;
+        font-family: "Poppins";
+    }
+    .banner-in p{
+        color:#fff;
+        font-size: 22px;
+        
+    
+    }
+    .universal{
+        color:white;
+        border:2px solid #133fb6;
+        background-color: #133fb6;
+        width:100px;
+        padding: 5px;
+        border-radius: 5px;
+
+    }
+    .banner-in a{
+        text-decoration: none;
+        color:white;
+        border:2px solid #133fb6;
+        background-color: #133fb6;
+        border-radius: 3px;
+        padding:10px;
+        margin-top:20px;
+        font-size: 22px;
+        display: inline-block;  
+        font-weight:bold;
+
+    }
+    .offer-in{
+        padding:70px 0px;
+    }
+    .offer-in h2{
+        text-align: center;
+        font-size: 48px;
+        color:#ffb526;
+        font-family: "Poppins";
+
+        
+
+    }
+    .offer-in #dif{
+        
+        color:#133fb6;
+    }
+    
+    .offer-box{
+        width:30%;
+        text-align: justify;
+        border:2px solid #133fb6;
+        padding:5px;
+    
+    }
+    .offer-row{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+    }
+    
+    .offer-box h3{
+
+        color:#133fb6;
+        margin: 10px 0;
+    }
+    
+    .offer p{
+        color:#666;
+    }
+    
+    .login-form{
+        width:350px;
+        position: absolute;
+        background-color: #fff;
+        border:2px solid #133fb6;
+        border-radius: 5px;
+        padding:20px;
+        top:30;
+        right: 0px;
+        visibility: hidden;
+    }
+    .login-form h3{
+        color:#133fb6;
+        text-align: center;
+        margin-bottom:20px ;
+    }
+    .login-form input{
+        width:100%;
+        border:2px solid #133fb6;
+        padding:10px;
+        color:#133fb6;
+        margin-bottom: 10px;
+    }
+    
+    .login-form button{
+        width: 100%;
+        background-color: #133fb6;
+        color:#fff;
+        padding:10px;
+        border-radius: 5px;
+        border:none;
+        outline:none;
+    }
+    .active{
+        visibility: visible;
+    }
+    .offer-fit{
+        width:100%;
+
+
+    }
+    .offer-fit img{
+        width:100%;
+    }
+
+    .offer-flex{
+        width:200px;
+        margin: auto;
+        display: flex;
+    }
+    
+
+    .footer{
+        background-color: #b7cbff;
+        
+    }
+    
+    .footer-in{
+        padding:30px 0;
+    }
+    .footer-row{
+        display: flex;
+        justify-content: space-between;
+    }
+    .footer-row i{
+        color:#133fb6;
+        margin-right: 10px;
+    }
+    
+    .footer-box{
+        display: flex;
+        flex-direction: column;
+        color:#fff;
+    }
+    .footer-box h2{
+        color:#133fb6;
+    
+    }
+    .footer-box p{
+        margin-top: 10px;
+    }
+    .footer a{
+        color:#be9c79;
+        text-decoration: none;
+        margin-top: 10px;
+    }
+    .footer-icon-flex{
+        width:150px;
+        display: flex;
+        justify-content: space-between;
+        color:#133fb6;
+    }
+    .footer-icon-flex i{
+        width:40px;
+        height:40px;
+    }
+    #fb2{
+        text-align: right;
+    }
+    
+    
